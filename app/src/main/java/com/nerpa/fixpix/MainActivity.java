@@ -1,3 +1,5 @@
+package com.nerpa.fixpix;
+
 import android.Manifest;
 import android.app.Activity;
 import android.content.pm.PackageManager;
